@@ -9,3 +9,11 @@ output.txt
 *.json
 .vscode/*
 *.sh
+out/
+qualitative/
+*.pkl
+*.pth
+*.pt
+*.tfevents*
+__pycache__/
+*.pyc
